@@ -34,6 +34,14 @@ print("Languages:\n\tPython\n\tC\n\tJavaScript")
 favorite_language = "python "
 print(favorite_language.rstrip())
 
+# 刪除字串左側空白
+favorite_language = " python"
+print(favorite_language.lstrip())
+
+# 刪除字串左右側空白
+favorite_language = " python "
+print(favorite_language.strip())
+
 # 刪除空白字串後回存原變數
 favorite_language = 'python '
 favorite_language = favorite_language.rstrip()
