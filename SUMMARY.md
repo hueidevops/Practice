@@ -1,6 +1,5 @@
 # Table of contents
 
-* [Introduction]
 * [Part I. 基礎必修]
     * [Chapter 1. 新手入門]
         * [Section 1. 安裝Python]
