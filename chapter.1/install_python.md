@@ -15,7 +15,11 @@ Python目前主要分為兩個版本：Python 2與Python 3。
 
 ![Command](/chapter.1/images/python_cmd.jpg)
 
-* 若畫面出現的是`'python' 不是內部或外部命令，可執行的程式或批次檔`，代表環境變數沒有設定好。
+* 若出現以下畫面，代表環境變數沒有設定好
+
+```'
+python' 不是內部或外部命令，可執行的程式或批次檔
+```
 
 4. 在Python終端對話中執行Python程式
 
