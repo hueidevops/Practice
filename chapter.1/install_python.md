@@ -9,4 +9,6 @@ Python目前主要分為兩個版本：Python 2與Python 3。
 
 2. 下載後請執行安裝程式，在安裝畫面中要勾選「Add Python 3.7 to PATH」，安裝程式會正確的設定好環境變數
 
+3. 啟動Python終端對話
+
 ## Linux環境
