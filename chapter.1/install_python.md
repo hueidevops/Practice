@@ -13,7 +13,7 @@ Python目前主要分為兩個版本：Python 2與Python 3。
 
     * 安裝Python時，若有勾選「Add Python 3.7 to PATH」，系統就會自動設定好環境變數，這時直接打開命令視窗(cmd)並輸入python，就會出現以下畫面
     
-    ![Command](/chapter.1/images/python_cmd.jpg)
+    ![Command](/chapter.1/images/python_cmd.jpg){:height="50%" width="50%"}
     
     * 若輸出以下畫面，代表環境變數沒有設定好
     ```'
