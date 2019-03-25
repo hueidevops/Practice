@@ -10,5 +10,19 @@ Python目前主要分為兩個版本：Python 2與Python 3。
 2. 下載後請執行安裝程式，在安裝畫面中要勾選「Add Python 3.7 to PATH」，安裝程式會正確的設定好環境變數
 
 3. 啟動Python終端對話
+* 安裝Python時，若有勾選「Add Python 3.7 to PATH」，系統就會自動設定好環境變數，這時直接打開命令視窗(cmd)並輸入python，就會出現以下畫面
+![Command](/chapter.1/images/python_cmd.jpg)
+
+* 若畫面出現的是`'python' 不是內部或外部命令，可執行的程式或批次檔`，代表環境變數沒有設定好。
+
+4. 在Python終端對話中執行Python程式
+
+在終端對話中輸入以下指令，並確定有看到輸出「Hello World!」
+
+```buildoutcfg
+print("Hello World!)
+```
+
+
 
 ## Linux環境
