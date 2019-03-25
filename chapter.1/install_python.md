@@ -11,16 +11,12 @@ Python目前主要分為兩個版本：Python 2與Python 3。
 
 3. 啟動Python終端對話
 
-* 安裝Python時，若有勾選「Add Python 3.7 to PATH」，系統就會自動設定好環境變數，這時直接打開命令視窗(cmd)並輸入python，就會出現以下畫面
-
-![Command](/chapter.1/images/python_cmd.jpg)
-
-* 若出現以下畫面，代表環境變數沒有設定好
-
-```'
-python' 不是內部或外部命令，可執行的程式或批次檔
-```
-
+    * 安裝Python時，若有勾選「Add Python 3.7 to PATH」，系統就會自動設定好環境變數，這時直接打開命令視窗(cmd)並輸入python，就會出現以下畫面
+    ![Command](/chapter.1/images/python_cmd.jpg)
+    * 若輸出以下畫面，代表環境變數沒有設定好
+    ```'
+    python' 不是內部或外部命令，可執行的程式或批次檔
+    ```
 4. 在Python終端對話中執行Python程式
 
 在終端對話中輸入以下指令，並確定有看到輸出「Hello World!」
