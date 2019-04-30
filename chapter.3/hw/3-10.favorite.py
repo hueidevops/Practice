@@ -1,0 +1,5 @@
+mountain = []
+river = []
+country = []
+city = []
+language = []
